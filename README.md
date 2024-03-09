@@ -6,4 +6,4 @@
 
 ** Release Alternative
 
-[Alternative]()
+[Alternative](https://github.com/XForYouX/Panda3DS-Emulator/releases)
